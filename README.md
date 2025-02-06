@@ -26,8 +26,8 @@ Este trabalho contém como objetivos específicos:
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
-     ```
+   ```
 3. Execute o script principal:
-  ```bash
-  python src/main.py
-  ```
+   ```bash
+     python src/main.py
+   ```
