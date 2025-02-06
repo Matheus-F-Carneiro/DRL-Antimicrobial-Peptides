@@ -23,7 +23,6 @@ Este trabalho contém como objetivos específicos:
    ```bash
    git clone https://github.com/seu-usuario/DRL-Antimicrobial-Peptides.git
    ```
-   
 2. Instale as dependências:
   ```bash
   pip install -r requirements.txt
