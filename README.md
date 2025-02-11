@@ -17,17 +17,3 @@ Este trabalho contém como objetivos específicos:
 ## Estrutura do Repositório
 - `data/`: Contém os dados brutos, processados e resultados.
 - `src/`: Códigos-fonte para pré-processamento, modelagem e execução.
-
-## Como Usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/DRL-Antimicrobial-Peptides.git
-   ```
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Execute o script principal:
-   ```bash
-     python src/main.py
-   ```
