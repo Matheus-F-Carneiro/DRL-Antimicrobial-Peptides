@@ -1,0 +1,7 @@
+N°,Sequência de Aminoácidos,DBAMP,AI4AMP,AMP Scanner,AMPIR,Positivos,Probabilidade Média
+14,TNIWKKQAISQKKTIR,Positivo,Positivo (0.92),Negativo (0.45),Negativo (0.04),2,0.47000000000000003
+16,VIINKKPTIHSQKKKTRR,Negativo,Positivo (0.60),Positivo (0.70),Negativo (0.04),2,0.4466666666666666
+1,ISIKKTVSSKKKTIH,Positivo,Positivo (0.74),Negativo (0.01),Negativo (0.08),2,0.27666666666666667
+13,GFNIWKIRRIISQKKTMQ,Negativo,Positivo (0.99),Negativo (0.15),Negativo (0.04),1,0.3933333333333333
+9,IRSGAKKMLIISQKKTQ,Negativo,Positivo (0.94),Negativo (0.00),Negativo (0.18),1,0.3733333333333333
+12,MRSIWKKMAIISQKKTQ,Negativo,Positivo (0.99),Negativo (0.05),Negativo (0.04),1,0.36000000000000004
