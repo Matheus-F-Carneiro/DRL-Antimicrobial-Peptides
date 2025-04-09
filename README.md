@@ -5,7 +5,7 @@ Este projeto utiliza técnicas de _Deep Reinforcement Learning_ (DRL) para proje
 
 ## Objetivos
 ### Objetivo Geral
-Este trabalho, tem como objetivo utilizar ferramentas _Deep Reinforcement Learning_ (DRL) para *design* de peptídeos antimicrobianos (PAMs) para futuramente serem validados _in vitro.
+Este trabalho, tem como objetivo utilizar ferramentas _Deep Reinforcement Learning_ (DRL) para *design* de peptídeos antimicrobianos (PAMs) para futuramente serem validados _in vitro_.
 
 ### Objetivos específicos
 Este trabalho contém como objetivos específicos:
