@@ -1,17 +1,17 @@
 # Deep Reinforcement Learning para Design de Peptídeos Antimicrobianos
 
 ## Descrição do Projeto
-Este projeto utiliza técnicas de Deep Reinforcement Learning (DRL) para projetar novos peptídeos antimicrobianos, visando combater a resistência antimicrobiana. 
+Este projeto utiliza técnicas de _Deep Reinforcement Learning_ (DRL) para projetar novos peptídeos antimicrobianos, visando combater a resistência antimicrobiana. 
 
 ## Objetivos
 ### Objetivo Geral
-Este trabalho, tem como objetivo utilizar ferramentas \acf{drl} para \emph{design} de \acf{pam} para futuramente serem validados \emph{in vitro}.
+Este trabalho, tem como objetivo utilizar ferramentas _Deep Reinforcement Learning_ (DRL) para *design* de peptídeos antimicrobianos (PAMs) para futuramente serem validados _in vitro.
 
 ### Objetivos específicos
 Este trabalho contém como objetivos específicos:
 - Explorar e consolidar conhecimento sobre peptídeos antimicrobianos (PAMs) e suas propriedades estruturais e funcionais para subsidiar a geração computacional de novos compostos.
-- Investigar a aplicabilidade de técnicas de deep reinforcement learning (DRL) no design de PAMs, avaliando seus benefícios e limitações no contexto da descoberta de novos peptídeos bioativos.
-- Contribuir para o avanço de estratégias computacionais para descoberta de biomoléculas ao propor um modelo baseado em DRL capaz de sugerir novos (PAMs) com potencial terapêutico.
+- Investigar a aplicabilidade de técnicas de _Deep Reinforcement Learning_ (DRL) no design de PAMs, avaliando seus benefícios e limitações no contexto da descoberta de novos peptídeos bioativos.
+- Contribuir para o avanço de estratégias computacionais para descoberta de biomoléculas ao propor um modelo baseado em DRL capaz de sugerir novos PAMs com potencial terapêutico.
 - Fornecer um conjunto de peptídeos candidatos que poderão ser futuramente validados experimentalmente, gerando insights para pesquisas futuras no desenvolvimento de novos antimicrobianos.
 
 ## Estrutura do Repositório
